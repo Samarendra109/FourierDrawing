@@ -20,7 +20,7 @@ Draw the logo of [The Coding Train](https://github.com/codingtrain)
 python animateFourier.py train
 ```
 
-Draw the Bart Simpson
+Draw Bart Simpson
 ```
 python animateFourier.py simpson
 ```
