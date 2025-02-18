@@ -1,5 +1,7 @@
 # FourierDrawing
 
+(Worked with [Saurav Pattnaik](https://github.com/SauravPattnaikCS60))
+
 My Implementation of drawing using fourier transform.
 
 Inspirations
